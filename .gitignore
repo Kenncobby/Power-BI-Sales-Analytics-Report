@@ -1,0 +1,14 @@
+# Power BI Project local files
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Ignore other exported/system files
+*.csv
+*.pdf
+Thumbs.db
+.DS_Store
+
+# Allow portfolio images and PDF export despite the rules above
+!docs/images/
+!docs/images/*.png
+!powerbi/*.pdf
