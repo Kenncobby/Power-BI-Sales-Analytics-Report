@@ -121,7 +121,7 @@ baseline: [`docs/powerbi_reconciliation_results.md`](docs/powerbi_reconciliation
 
 ## Author
 
-Kenneth Appiah — SQL Developer specializing in database design, query optimization, and ETL solutions.
+Kenneth Appiah — SQL and Analytics Developer specializing in database design, query optimization, ETL, Power BI semantic models and reports.
 
 ## License
 
